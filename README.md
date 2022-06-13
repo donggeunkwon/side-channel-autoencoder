@@ -3,7 +3,8 @@ Implementations of Side-Channel Autoencoders
 
 Refer:
 ~~Improving Non-Profiled Side-Channel Attacks using Autoencoder-based Preprocessing [[pdf](https://eprint.iacr.org/2020/396.pdf)]~~
-Non-Profiled Deep Learning-based Side-Channel Preprocessing with Autoencoders [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9400816)
+
+Non-Profiled Deep Learning-based Side-Channel Preprocessing with Autoencoders [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9400816)]
 
 Contact: <donggeun.kwon@gmail.com>
 
@@ -28,5 +29,6 @@ The structure of the source code is as follows:
     + _SCAE_DDLA.py (~~Test~~)
     + loadh5.py
     + hyperparameters.py
+
 
 <center><a href="http://crypto.korea.ac.kr" target="_blank"><img src="http://crypto.korea.ac.kr/wp-content/uploads/2019/01/Algorithm_trans.png" width="30%" height="30%" /></a></center>
